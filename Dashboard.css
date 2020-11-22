@@ -1,0 +1,17 @@
+.line{
+    fill:none;
+    stroke:black;
+}
+
+.lineColor{
+    stroke:pink;
+    fill:none;
+}
+
+.mline{
+    fill:none;
+    stroke:blue;
+}
+
+
+body {background-color: beige;}
